@@ -4,12 +4,84 @@
 //
 
 // Do not edit directly
-// Generated on Sun, 12 Sep 2021 23:25:22 GMT
+// Generated on Sun, 12 Sep 2021 23:27:31 GMT
 
 
 import UIKit
 
 public class StyleDictionary {
+    public static let effectBorderTopAndBottom0Color = rgba(233, 234, 235, 1)
+    public static let effectBorderTopAndBottom0OffsetX = 0
+    public static let effectBorderTopAndBottom0OffsetY = -1
+    public static let effectBorderTopAndBottom0Radius = 0
+    public static let effectBorderTopAndBottom0Spread = 0
+    public static let effectBorderTopAndBottom0Type = innerShadow
+    public static let effectBorderTopAndBottom1Color = rgba(233, 234, 235, 1)
+    public static let effectBorderTopAndBottom1OffsetX = 0
+    public static let effectBorderTopAndBottom1OffsetY = 1
+    public static let effectBorderTopAndBottom1Radius = 0
+    public static let effectBorderTopAndBottom1Spread = 0
+    public static let effectBorderTopAndBottom1Type = innerShadow
+    public static let effectBorderTopColor = rgba(228, 229, 231, 1)
+    public static let effectBorderTopOffsetX = 0
+    public static let effectBorderTopOffsetY = 1
+    public static let effectBorderTopRadius = 0
+    public static let effectBorderTopSpread = 0
+    public static let effectBorderTopType = innerShadow
+    public static let effectButtonSegmentLeft0Color = rgba(0, 0, 0, 0.05)
+    public static let effectButtonSegmentLeft0OffsetX = 0
+    public static let effectButtonSegmentLeft0OffsetY = 1
+    public static let effectButtonSegmentLeft0Radius = 0
+    public static let effectButtonSegmentLeft0Spread = 0
+    public static let effectButtonSegmentLeft0Type = dropShadow
+    public static let effectButtonSegmentLeft1Color = rgba(187, 191, 195, 1)
+    public static let effectButtonSegmentLeft1OffsetX = 0
+    public static let effectButtonSegmentLeft1OffsetY = 1
+    public static let effectButtonSegmentLeft1Radius = 0
+    public static let effectButtonSegmentLeft1Spread = 0
+    public static let effectButtonSegmentLeft1Type = innerShadow
+    public static let effectButtonSegmentLeft2Color = rgba(187, 191, 195, 1)
+    public static let effectButtonSegmentLeft2OffsetX = 1
+    public static let effectButtonSegmentLeft2OffsetY = 0
+    public static let effectButtonSegmentLeft2Radius = 0
+    public static let effectButtonSegmentLeft2Spread = 0
+    public static let effectButtonSegmentLeft2Type = innerShadow
+    public static let effectButtonSegmentLeft3Color = rgba(188, 191, 195, 1)
+    public static let effectButtonSegmentLeft3OffsetX = 0
+    public static let effectButtonSegmentLeft3OffsetY = -1
+    public static let effectButtonSegmentLeft3Radius = 0
+    public static let effectButtonSegmentLeft3Spread = 0
+    public static let effectButtonSegmentLeft3Type = innerShadow
+    public static let effectButtonSegmentMiddle0Color = rgba(0, 0, 0, 0.05)
+    public static let effectButtonSegmentMiddle0OffsetX = 0
+    public static let effectButtonSegmentMiddle0OffsetY = 1
+    public static let effectButtonSegmentMiddle0Radius = 0
+    public static let effectButtonSegmentMiddle0Spread = 0
+    public static let effectButtonSegmentMiddle0Type = dropShadow
+    public static let effectButtonSegmentMiddle1Color = rgba(187, 191, 195, 1)
+    public static let effectButtonSegmentMiddle1OffsetX = 0
+    public static let effectButtonSegmentMiddle1OffsetY = 1
+    public static let effectButtonSegmentMiddle1Radius = 0
+    public static let effectButtonSegmentMiddle1Spread = 0
+    public static let effectButtonSegmentMiddle1Type = innerShadow
+    public static let effectButtonSegmentMiddle2Color = rgba(187, 191, 195, 1)
+    public static let effectButtonSegmentMiddle2OffsetX = 1
+    public static let effectButtonSegmentMiddle2OffsetY = 0
+    public static let effectButtonSegmentMiddle2Radius = 0
+    public static let effectButtonSegmentMiddle2Spread = 0
+    public static let effectButtonSegmentMiddle2Type = innerShadow
+    public static let effectButtonSegmentMiddle3Color = rgba(188, 191, 195, 1)
+    public static let effectButtonSegmentMiddle3OffsetX = 0
+    public static let effectButtonSegmentMiddle3OffsetY = -1
+    public static let effectButtonSegmentMiddle3Radius = 0
+    public static let effectButtonSegmentMiddle3Spread = 0
+    public static let effectButtonSegmentMiddle3Type = innerShadow
+    public static let effectDividerBottomColor = rgba(225, 227, 229, 1)
+    public static let effectDividerBottomOffsetX = 0
+    public static let effectDividerBottomOffsetY = -1
+    public static let effectDividerBottomRadius = 0
+    public static let effectDividerBottomSpread = 0
+    public static let effectDividerBottomType = innerShadow
     public static let gradientButtonBorderGradientGradientType = linear
     public static let gradientButtonBorderGradientOpacity = 1
     public static let gradientButtonBorderGradientStops0Color = rgba(186, 191, 195, 1)
