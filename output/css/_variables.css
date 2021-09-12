@@ -1,0 +1,67 @@
+/**
+ * Do not edit directly
+ * Generated on Sun, 12 Sep 2021 23:25:22 GMT
+ */
+
+:root {
+  --gradient-button-border-gradient-gradient-type: linear;
+  --gradient-button-border-gradient-stops-0-position: 0.86;
+  --gradient-button-border-gradient-stops-0-color: rgba(186, 191, 195, 1);
+  --gradient-button-border-gradient-stops-1-position: 1;
+  --gradient-button-border-gradient-stops-1-color: rgba(187, 191, 195, 1);
+  --gradient-button-border-gradient-opacity: 1;
+  --gradient-text-input-border-gradient-type: linear;
+  --gradient-text-input-border-stops-0-position: 0;
+  --gradient-text-input-border-stops-0-color: rgba(167, 172, 177, 1);
+  --gradient-text-input-border-stops-1-position: 0.1;
+  --gradient-text-input-border-stops-1-color: rgba(186, 191, 195, 1);
+  --gradient-text-input-border-opacity: 1;
+  --grid-spacing-padding-20-0-pattern: columns;
+  --grid-spacing-padding-20-0-section-size: 1;
+  --grid-spacing-padding-20-0-gutter-size: 20;
+  --grid-spacing-padding-20-0-alignment: max;
+  --grid-spacing-padding-20-0-count: 1;
+  --grid-spacing-padding-20-0-offset: 20;
+  --grid-spacing-padding-20-1-pattern: rows;
+  --grid-spacing-padding-20-1-section-size: 1;
+  --grid-spacing-padding-20-1-gutter-size: 20;
+  --grid-spacing-padding-20-1-alignment: max;
+  --grid-spacing-padding-20-1-count: 1;
+  --grid-spacing-padding-20-1-offset: 20;
+  --grid-spacing-padding-20-2-pattern: columns;
+  --grid-spacing-padding-20-2-section-size: 1;
+  --grid-spacing-padding-20-2-gutter-size: 20;
+  --grid-spacing-padding-20-2-alignment: min;
+  --grid-spacing-padding-20-2-count: 1;
+  --grid-spacing-padding-20-2-offset: 20;
+  --grid-spacing-padding-20-3-pattern: rows;
+  --grid-spacing-padding-20-3-section-size: 1;
+  --grid-spacing-padding-20-3-gutter-size: 20;
+  --grid-spacing-padding-20-3-alignment: min;
+  --grid-spacing-padding-20-3-count: 1;
+  --grid-spacing-padding-20-3-offset: 20;
+  --grid-spacing-padding-16-0-pattern: columns;
+  --grid-spacing-padding-16-0-section-size: 1;
+  --grid-spacing-padding-16-0-gutter-size: 16;
+  --grid-spacing-padding-16-0-alignment: min;
+  --grid-spacing-padding-16-0-count: 1;
+  --grid-spacing-padding-16-0-offset: 16;
+  --grid-spacing-padding-16-1-pattern: columns;
+  --grid-spacing-padding-16-1-section-size: 1;
+  --grid-spacing-padding-16-1-gutter-size: 16;
+  --grid-spacing-padding-16-1-alignment: max;
+  --grid-spacing-padding-16-1-count: 1;
+  --grid-spacing-padding-16-1-offset: 16;
+  --grid-spacing-padding-16-2-pattern: rows;
+  --grid-spacing-padding-16-2-section-size: 1;
+  --grid-spacing-padding-16-2-gutter-size: 16;
+  --grid-spacing-padding-16-2-alignment: min;
+  --grid-spacing-padding-16-2-count: 1;
+  --grid-spacing-padding-16-2-offset: 16;
+  --grid-spacing-padding-16-3-pattern: rows;
+  --grid-spacing-padding-16-3-section-size: 1;
+  --grid-spacing-padding-16-3-gutter-size: 16;
+  --grid-spacing-padding-16-3-alignment: max;
+  --grid-spacing-padding-16-3-count: 1;
+  --grid-spacing-padding-16-3-offset: 16;
+}
