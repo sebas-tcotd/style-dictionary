@@ -312,5 +312,413 @@
         "exportKey": "grid"
       }
     }
+  },
+  "effect": {
+    "border": {
+      "top and bottom": {
+        "0": {
+          "type": {
+            "value": "innerShadow",
+            "type": "string"
+          },
+          "radius": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "color": {
+            "value": "rgba(233, 234, 235, 1)",
+            "type": "color"
+          },
+          "offset": {
+            "x": {
+              "value": 0,
+              "type": "number",
+              "unit": "pixel"
+            },
+            "y": {
+              "value": -1,
+              "type": "number",
+              "unit": "pixel"
+            }
+          },
+          "spread": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          }
+        },
+        "1": {
+          "type": {
+            "value": "innerShadow",
+            "type": "string"
+          },
+          "radius": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "color": {
+            "value": "rgba(233, 234, 235, 1)",
+            "type": "color"
+          },
+          "offset": {
+            "x": {
+              "value": 0,
+              "type": "number",
+              "unit": "pixel"
+            },
+            "y": {
+              "value": 1,
+              "type": "number",
+              "unit": "pixel"
+            }
+          },
+          "spread": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          }
+        },
+        "category": "effect",
+        "exportKey": "effect"
+      },
+      "top": {
+        "category": "effect",
+        "exportKey": "effect",
+        "type": {
+          "value": "innerShadow",
+          "type": "string"
+        },
+        "radius": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "color": {
+          "value": "rgba(228, 229, 231, 1)",
+          "type": "color"
+        },
+        "offset": {
+          "x": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "y": {
+            "value": 1,
+            "type": "number",
+            "unit": "pixel"
+          }
+        },
+        "spread": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        }
+      }
+    },
+    "divider": {
+      "bottom": {
+        "category": "effect",
+        "exportKey": "effect",
+        "type": {
+          "value": "innerShadow",
+          "type": "string"
+        },
+        "radius": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        },
+        "color": {
+          "value": "rgba(225, 227, 229, 1)",
+          "type": "color"
+        },
+        "offset": {
+          "x": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "y": {
+            "value": -1,
+            "type": "number",
+            "unit": "pixel"
+          }
+        },
+        "spread": {
+          "value": 0,
+          "type": "number",
+          "unit": "pixel"
+        }
+      }
+    },
+    "button segment": {
+      "left": {
+        "0": {
+          "type": {
+            "value": "dropShadow",
+            "type": "string"
+          },
+          "radius": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "color": {
+            "value": "rgba(0, 0, 0, 0.05)",
+            "type": "color"
+          },
+          "offset": {
+            "x": {
+              "value": 0,
+              "type": "number",
+              "unit": "pixel"
+            },
+            "y": {
+              "value": 1,
+              "type": "number",
+              "unit": "pixel"
+            }
+          },
+          "spread": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          }
+        },
+        "1": {
+          "type": {
+            "value": "innerShadow",
+            "type": "string"
+          },
+          "radius": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "color": {
+            "value": "rgba(187, 191, 195, 1)",
+            "type": "color"
+          },
+          "offset": {
+            "x": {
+              "value": 0,
+              "type": "number",
+              "unit": "pixel"
+            },
+            "y": {
+              "value": 1,
+              "type": "number",
+              "unit": "pixel"
+            }
+          },
+          "spread": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          }
+        },
+        "2": {
+          "type": {
+            "value": "innerShadow",
+            "type": "string"
+          },
+          "radius": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "color": {
+            "value": "rgba(187, 191, 195, 1)",
+            "type": "color"
+          },
+          "offset": {
+            "x": {
+              "value": 1,
+              "type": "number",
+              "unit": "pixel"
+            },
+            "y": {
+              "value": 0,
+              "type": "number",
+              "unit": "pixel"
+            }
+          },
+          "spread": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          }
+        },
+        "3": {
+          "type": {
+            "value": "innerShadow",
+            "type": "string"
+          },
+          "radius": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "color": {
+            "value": "rgba(188, 191, 195, 1)",
+            "type": "color"
+          },
+          "offset": {
+            "x": {
+              "value": 0,
+              "type": "number",
+              "unit": "pixel"
+            },
+            "y": {
+              "value": -1,
+              "type": "number",
+              "unit": "pixel"
+            }
+          },
+          "spread": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          }
+        },
+        "category": "effect",
+        "exportKey": "effect"
+      },
+      "middle": {
+        "0": {
+          "type": {
+            "value": "dropShadow",
+            "type": "string"
+          },
+          "radius": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "color": {
+            "value": "rgba(0, 0, 0, 0.05)",
+            "type": "color"
+          },
+          "offset": {
+            "x": {
+              "value": 0,
+              "type": "number",
+              "unit": "pixel"
+            },
+            "y": {
+              "value": 1,
+              "type": "number",
+              "unit": "pixel"
+            }
+          },
+          "spread": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          }
+        },
+        "1": {
+          "type": {
+            "value": "innerShadow",
+            "type": "string"
+          },
+          "radius": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "color": {
+            "value": "rgba(187, 191, 195, 1)",
+            "type": "color"
+          },
+          "offset": {
+            "x": {
+              "value": 0,
+              "type": "number",
+              "unit": "pixel"
+            },
+            "y": {
+              "value": 1,
+              "type": "number",
+              "unit": "pixel"
+            }
+          },
+          "spread": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          }
+        },
+        "2": {
+          "type": {
+            "value": "innerShadow",
+            "type": "string"
+          },
+          "radius": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "color": {
+            "value": "rgba(187, 191, 195, 1)",
+            "type": "color"
+          },
+          "offset": {
+            "x": {
+              "value": 1,
+              "type": "number",
+              "unit": "pixel"
+            },
+            "y": {
+              "value": 0,
+              "type": "number",
+              "unit": "pixel"
+            }
+          },
+          "spread": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          }
+        },
+        "3": {
+          "type": {
+            "value": "innerShadow",
+            "type": "string"
+          },
+          "radius": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          },
+          "color": {
+            "value": "rgba(188, 191, 195, 1)",
+            "type": "color"
+          },
+          "offset": {
+            "x": {
+              "value": 0,
+              "type": "number",
+              "unit": "pixel"
+            },
+            "y": {
+              "value": -1,
+              "type": "number",
+              "unit": "pixel"
+            }
+          },
+          "spread": {
+            "value": 0,
+            "type": "number",
+            "unit": "pixel"
+          }
+        },
+        "category": "effect",
+        "exportKey": "effect"
+      }
+    }
   }
 }
